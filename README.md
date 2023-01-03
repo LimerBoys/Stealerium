@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73314940/165982277-b00ac8cc-dbb1-407b-a247-8e752fcc8ae1.png"> <br>
-  <b>Stealer + Clipper + Keylogger</b> <br>
+  <b>Stealer + Clipper + Keylogger MODED BY EXCODER Clean FUD</b> <br>
   <i>Stealer written on C#, logs will be sent to your Discord channel using a webhook.</i>
 </p>
 
