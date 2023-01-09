@@ -7,6 +7,7 @@ namespace Stealerium.Clipper
         // Get text from clipboard
         public static string GetText()
         {
+            //554
             var returnValue = string.Empty;
             try
             {
